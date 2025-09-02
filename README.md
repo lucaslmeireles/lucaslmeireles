@@ -1,43 +1,55 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lucaslmeireles&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<!-- Lucas Meireles Resume -->
 
-### Olá, meu nome é Lucas!
+<h1>Olá, meu nome é Lucas!</h1>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=lucaslmeireles&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<div>
+  <img src="https://img.shields.io/static/v1?label=Perfil&message=lucaslmeireles&color=002642&style=for-the-badge&logo=GitHub" height="25" alt="GitHub">
+  <a href="https://www.linkedin.com/in/lucas-lucio-de-meireles-478936278/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"  />
+  </a>
+</div>
 
-<p>Me preparando para ser um dev fullstack junior.</p>
-<p>Estudando Java, C# e Javascript</p>
-<p>Atualmente trabalhando na Stellantis South America como estagiário</p>
+<p>Me preparando para ser um dev fullstack júnior.</p>
+
+<!-- Badges das linguagens -->
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Python" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="25" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"" alt="NextJS"/>
+</div>
+
+<p>Atualmente trabalho na Stellantis South America como estagiário.</p>
 
 <h2>Projetos</h2>
-<h4>CM APP - Em Andamento<h4>
-<p>Estou construindo um Saas para tornar dinamico o processo de avaliação do desempenho de funcionários. </p>
-<p>Nesse projeto estou usando tecnologia como NextJs, NestJS, Prisma, Postgresql, ShadcnUI.</p>
-
+<h4>CM APP - Em Andamento</h4>
+<p>Estou construindo um SaaS para tornar dinâmico o processo de avaliação de desempenho de funcionários.</p>
+<p>Nesse projeto estou usando tecnologias como NextJs, NestJS, Prisma, PostgreSQL e ShadcnUI.</p>
 
 <h4>Rede ECO</h4>
-<p>Criado para um prjeto de faculdade a Rede ECO tem a função de ser uma rede social voltada para o meio ambiente, com posts e artigos relacionados a importância de cuidar do planeta.</p>
-<p>Para esse projeto usei 
-  WEB: NextJs para o front end e NestJS para o backend
-  Android: Expo ( React Native ) e Sanity como backend
-</p>
-
-<h4>Projeto Docas - Em Andamento<h4>
-<p>Estou construindo um sistema para controlar a carga e descargar de produtos em uma doca. O funcionário teria a possibilidade de usar o sistema como um catalogo de entradas e um eventual portal de estoque.</p>
-<p>Nesse projeto estou usando:
-   API: C#, .Net
-   WEB: NuxtJs
-</p>
+<p>Criada para um projeto de faculdade, a Rede ECO é uma rede social voltada para o meio ambiente, com posts e artigos sobre a importância de cuidar do planeta.</p>
+<p>Tecnologias utilizadas:</p>
+<ul>
+  <li>WEB: NextJs (front-end) e NestJS (back-end)</li>
+  <li>Android: Expo (React Native) e Sanity (back-end)</li>
+</ul>
 
 <h2>Projetos Futuros</h2>
 <ul>
-  <li>Sistema de Biblioteca com Java e Springboot</li>
+  <li>Sistema de Biblioteca com Java e Spring Boot</li>
   <li>Pomodoro com Tauri</li>
 </ul>
 
 <h2>Projetos Terminados</h2>
 <ul>
-    <li>Projeto Agenda - Python e Django</li>
-    <li>Projeto Dojo - ElectronJS </li>
+  <li>Projeto Agenda - Python e Django</li>
+  <li>Projeto Dojo - ElectronJS</li>
 </ul>
 
-
+<h2>Contato</h2>
+<p>
+  <a href="mailto:lluciomeireles@gmail.com">lluciomeireles@gmail.com</a>
+</p>
