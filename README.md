@@ -14,7 +14,6 @@
 <!-- Badges das linguagens -->
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" alt="Python" />
@@ -22,7 +21,6 @@
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"" alt="NextJS"/>
 </div>
 
-<p>Atualmente trabalho na Stellantis South America como estagiário.</p>
 
 <h2>Projetos</h2>
 <h4>CM APP - Em Andamento</h4>
